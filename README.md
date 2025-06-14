@@ -1,1 +1,78 @@
-# repo-ludinc-modpack
+# LUD Inc. R.E.P.O Modpack
+
+## Mod List
+
+### Basic Mods
+- [BepInExPack](https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/)
+- [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/)
+- [REPOConfig](https://thunderstore.io/c/repo/p/nickklmao/REPOConfig/)
+- [REPOLib](https://thunderstore.io/c/repo/p/Zehs/REPOLib/)
+- [loaforcsSoundAPI](https://thunderstore.io/c/repo/p/loaforc/loaforcsSoundAPI/)
+
+### Main Mods
+
+Cosmetics:
+
+- [MoreHead](https://thunderstore.io/c/repo/p/YMC_MHZ/MoreHead/)
+- [MoreHeadPlus](https://thunderstore.io/c/repo/p/RESET/MoreHeadPlus/)
+- [MoreHeadUtilities](https://thunderstore.io/c/repo/p/Maygik/MoreHeadUtilities/)
+  
+---
+
+Maps:
+
+- [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/)
+- [FNAFLevel](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/)
+- [Minecraft Twilight Forest](https://thunderstore.io/c/repo/p/Custard_Crew/Minecraft_Twilight_Forest/)
+- [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/)
+- [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/)
+- [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
+
+---
+
+Functions:
+
+- [Walkie Talkies](https://thunderstore.io/c/repo/p/surfknasen/Walkie_Talkies/)
+- [LateJoin](https://thunderstore.io/c/repo/p/Rebateman/LateJoin/)
+- [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/)
+- [Dead Map Access](https://thunderstore.io/c/repo/p/SaturnKai/Dead_Map_Access/)
+- [ExtractionPointConfirmButton](https://thunderstore.io/c/repo/p/Zehs/ExtractionPointConfirmButton/)
+- [MapVote](https://thunderstore.io/c/repo/p/Patrick/MapVote/)
+- [MoreDifficultyREPO](https://thunderstore.io/c/repo/p/SK0R3N/MoreDifficultyREPO/)
+- [InfiniteStaminaInShop](https://thunderstore.io/c/repo/p/FluxTeam/InfiniteStaminaInShop/)
+- [Repo Leveling](https://thunderstore.io/c/repo/p/Einhornyordle/Repo_Leveling/)
+
+---
+
+Valuables:
+
+- [BigNuke](https://thunderstore.io/c/repo/p/TitanVortex/BigNuke/)
+- [LethalCompanyValuables](https://thunderstore.io/c/repo/p/Zehs/LethalCompanyValuables/)
+- [ObamaPrism](https://thunderstore.io/c/repo/p/TheMedic/ObamaPrism/)
+
+---
+
+Misc:
+
+- [GamblingMachine](https://thunderstore.io/c/repo/p/Lluciocc/GamblingMachine/)
+- [GambleInShop](https://thunderstore.io/c/repo/p/khalliv/GambleInShop/)
+- [Free Bird](https://thunderstore.io/c/repo/p/Muz_tea/Free_Bird/)
+- [WiiShopChannelMusic](https://thunderstore.io/c/repo/p/FluxTeam/WiiShopChannelMusic/)
+- [Duck saying BingChilling](https://thunderstore.io/c/repo/p/NEVAR/Duck_saying_BingChilling/)
+- [ShoppingListHUD](https://thunderstore.io/c/repo/p/khalliv/ShoppingListHUD/)
+
+---
+
+Monster:
+
+- [MINEMONSTERS](https://thunderstore.io/c/repo/p/GarStudios/MINEMONSTERS/)
+- [TungSahur](https://thunderstore.io/c/repo/p/Gearmaster/TungSahur/)
+- [Obunga](https://thunderstore.io/c/repo/p/TitanVortex/Obunga/)
+- [RETEMINATOR](https://thunderstore.io/c/repo/p/SNEUS_STUDIO/RETEMINATOR/)
+- [TralaleroFIXED](https://thunderstore.io/c/repo/p/Brainrotanimals1/TralaleroFIXED/)
+- [crazy forg](https://thunderstore.io/c/repo/p/kiwiiii/crazy_forg/)
+- [RobeSchumacher](https://thunderstore.io/c/repo/p/Albinaurics/RobeSchumacher/)
+- [Huntsman Bomboclat and Hurt sounds](https://thunderstore.io/c/repo/p/Sylph/Huntsman_Bomboclat_and_Hurt_sounds/)
+- [Weeping Angel Enemy](https://thunderstore.io/c/repo/p/JoshA/Weeping_Angel_Enemy/)
+- [BadtotheBone](https://thunderstore.io/c/repo/p/LanguidRat/BadtotheBone/)
+- [FreddyEnemy](https://thunderstore.io/c/repo/p/OrtonLongGaming/FreddyEnemy/)
