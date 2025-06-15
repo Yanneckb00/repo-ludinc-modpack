@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.2.2] - 2025-06-15
+
+### Removed
+- Removed `SK0R3N-MoreDifficultyREPO-0.2.0` because of uncompability with `DirtyGames-REPOGambling-1.5.9`****
+
+## [1.2.1] - 2025-06-15
+
+### Removed
+- Removed `DougHRito-SurfinDuck-1.0.1`
+- Removed `Sylph-Huntsman_Bomboclat_and_Hurt_sounds-1.0.0`
+
 ## [1.2.0] - 2025-06-15
 
 ### Added

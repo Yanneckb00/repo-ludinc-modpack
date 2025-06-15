@@ -45,7 +45,6 @@ Functions:
 - [Dead Map Access](https://thunderstore.io/c/repo/p/SaturnKai/Dead_Map_Access/)
 - [ExtractionPointConfirmButton](https://thunderstore.io/c/repo/p/Zehs/ExtractionPointConfirmButton/)
 - [MapVote](https://thunderstore.io/c/repo/p/Patrick/MapVote/)
-- [MoreDifficultyREPO](https://thunderstore.io/c/repo/p/SK0R3N/MoreDifficultyREPO/)
 - [InfiniteStaminaInShop](https://thunderstore.io/c/repo/p/FluxTeam/InfiniteStaminaInShop/)
 - [Repo Leveling](https://thunderstore.io/c/repo/p/Einhornyordle/Repo_Leveling/)
 - [MoreShopItems](https://thunderstore.io/c/repo/p/GalaxyMods/MoreShopItems/)
@@ -104,7 +103,6 @@ Monster:
 - [TralaleroFIXED](https://thunderstore.io/c/repo/p/Brainrotanimals1/TralaleroFIXED/)
 - [crazy forg](https://thunderstore.io/c/repo/p/kiwiiii/crazy_forg/)
 - [RobeSchumacher](https://thunderstore.io/c/repo/p/Albinaurics/RobeSchumacher/)
-- [Huntsman Bomboclat and Hurt sounds](https://thunderstore.io/c/repo/p/Sylph/Huntsman_Bomboclat_and_Hurt_sounds/)
 - [Weeping Angel Enemy](https://thunderstore.io/c/repo/p/JoshA/Weeping_Angel_Enemy/)
 - [BadtotheBone](https://thunderstore.io/c/repo/p/LanguidRat/BadtotheBone/)
 - [FreddyEnemy](https://thunderstore.io/c/repo/p/OrtonLongGaming/FreddyEnemy/)
@@ -116,7 +114,6 @@ Monster:
 
 Sounds:
 
-- [SurfinDuck](https://thunderstore.io/c/repo/p/DougHRito/SurfinDuck/)
 - [Free Bird](https://thunderstore.io/c/repo/p/Muz_tea/Free_Bird/)
 - [WiiShopChannelMusic](https://thunderstore.io/c/repo/p/FluxTeam/WiiShopChannelMusic/)
 - [Duck saying BingChilling](https://thunderstore.io/c/repo/p/NEVAR/Duck_saying_BingChilling/)
