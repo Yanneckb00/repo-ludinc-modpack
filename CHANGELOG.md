@@ -10,6 +10,10 @@
 - added `Krild-YippeeIsBack-1.0.3`
 - added `nickklmao-MoreInventorySlots-1.0.2`
 - added `Skydorm-SkyCustomLevelSizes_Skydorm-0.0.2`
+- added `Tansinator-Map_Value_Tracker-1.3.0`
+- added `XiaohaiMod-XH_DamageShow_EnemyHealthBar-1.0.2`
+- added `Rudeus-Vacuum_Enemy-1.0.13`
+- added `BlueAmulet-REPO_HD-1.0.3`
 
 ## [1.2.2] - 2025-06-15
 

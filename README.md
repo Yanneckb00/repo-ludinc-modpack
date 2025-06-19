@@ -64,6 +64,9 @@ Functions:
 - [UltimateRevive](https://thunderstore.io/c/repo/p/Godji/UltimateRevive/)
 - [REPO Alchemy](https://thunderstore.io/c/repo/p/Lunoid/REPO_Alchemy/)
 - [MoreInventorySlots](https://thunderstore.io/c/repo/p/nickklmao/MoreInventorySlots/)
+- [XH DamageShow EnemyHealthBar](https://thunderstore.io/c/repo/p/XiaohaiMod/XH_DamageShow_EnemyHealthBar/)
+- [Map Value Tracker](https://thunderstore.io/c/repo/p/Tansinator/Map_Value_Tracker/)
+- [REPO HD](https://thunderstore.io/c/repo/p/BlueAmulet/REPO_HD/)
 
 ---
 
@@ -115,6 +118,7 @@ Monster:
 - [EP3](https://thunderstore.io/c/repo/p/Jhook/EP3/)
 - [Wesley's Enemies](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Enemies/)
 - [Zelda Moon Mod](https://thunderstore.io/c/repo/p/WaitWhat/Zelda_Moon_Mod/)
+- [Vacuum Enemy](https://thunderstore.io/c/repo/p/Rudeus/Vacuum_Enemy/)
 
 ---
 
