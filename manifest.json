@@ -1,6 +1,6 @@
 {
     "name": "LudIncModpack",
-    "version_number": "1.2.2",
+    "version_number": "1.3.0",
     "website_url": "https://github.com/Yanneckb00/repo-ludinc-modpack",
     "description": "Official Modpack from the LUD Inc. Company",
     "dependencies": [
@@ -81,6 +81,13 @@
         "Lunoid-REPO_Alchemy-1.1.3",
         "Kistras-CustomDiscoverStateLib-1.0.1",
         "Yuckers-Unique_Potions-0.6.3",
-        "StarbornWolf-Catalyst_Maps-1.0.0"
+        "StarbornWolf-Catalyst_Maps-1.0.0",
+        "August-UndergroundCave-1.5.0",
+        "Krild-YippeeIsBack-1.0.3",
+        "Venture_Fearless-Minecraft_Village-1.0.1",
+        "AriIcedT-SisyphusStaircaseLevel-1.0.1",
+        "nickklmao-MoreInventorySlots-1.0.2",
+        "Rogue-Backrooms-1.0.1",
+        "Skydorm-SkyCustomLevelSizes_Skydorm-0.0.2"
     ]
 }

@@ -14,6 +14,7 @@ If you want to synchronise with your friends just export your profile as code so
 - [REPOLib](https://thunderstore.io/c/repo/p/Zehs/REPOLib/)
 - [loaforcsSoundAPI](https://thunderstore.io/c/repo/p/loaforc/loaforcsSoundAPI/)
 - [CustomDiscoverStateLib](https://thunderstore.io/c/repo/p/Kistras/CustomDiscoverStateLib/)
+- [SkyCustomLevelSizes Skydorm](https://thunderstore.io/c/repo/p/Skydorm/SkyCustomLevelSizes_Skydorm/)
 
 ### Main Mods
 
@@ -34,6 +35,10 @@ Maps:
 - [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/)
 - [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
 - [Catalyst Maps](https://thunderstore.io/c/repo/p/StarbornWolf/Catalyst_Maps/)
+- [UndergroundCave](https://thunderstore.io/c/repo/p/August/UndergroundCave/)
+- [Minecraft Village](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/)
+- [SisyphusStaircaseLevel](https://thunderstore.io/c/repo/p/AriIcedT/SisyphusStaircaseLevel/)
+- [Backrooms](https://thunderstore.io/c/repo/p/Rogue/Backrooms/)
 
 ---
 
@@ -58,6 +63,7 @@ Functions:
 - [EvenMoreCommands](https://thunderstore.io/c/repo/p/KekW/EvenMoreCommands/)
 - [UltimateRevive](https://thunderstore.io/c/repo/p/Godji/UltimateRevive/)
 - [REPO Alchemy](https://thunderstore.io/c/repo/p/Lunoid/REPO_Alchemy/)
+- [MoreInventorySlots](https://thunderstore.io/c/repo/p/nickklmao/MoreInventorySlots/)
 
 ---
 
@@ -122,3 +128,4 @@ Sounds:
 - [GalaxyMods-MoreShopItems-1.3.3](https://thunderstore.io/c/repo/p/eth9n/Mimic/)
 - [RepoBomboclat](https://thunderstore.io/c/repo/p/CapybaraEstTravy/RepoBomboclat/)
 - [XueHuaMenuMusicFIXED](https://thunderstore.io/c/repo/p/NEVAR/XueHuaMenuMusicFIXED/)
+- [YippeeIsBack](https://thunderstore.io/c/repo/p/Krild/YippeeIsBack/)

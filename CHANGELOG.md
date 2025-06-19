@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.3.0] - 2025-06-19
+
+### Added
+- added map `August-UndergroundCave-1.5.0`
+- added minecraft maps again (`Venture_Fearless-Minecraft_Village-1.0.1` and ``)
+- added map `AriIcedT-SisyphusStaircaseLevel-1.0.1`
+- added map `Rogue-Backrooms-1.0.1`
+- added `Krild-YippeeIsBack-1.0.3`
+- added `nickklmao-MoreInventorySlots-1.0.2`
+- added `Skydorm-SkyCustomLevelSizes_Skydorm-0.0.2`
+
 ## [1.2.2] - 2025-06-15
 
 ### Removed
